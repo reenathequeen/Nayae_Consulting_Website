@@ -1,0 +1,419 @@
+Hi Serena,
+
+See below the prompt you will use for the AI to help build this website. I was sugessting webflow because it uses AI but if you have your own ways thats good.
+Let me know if you have any questions.
+WEBSITE DESIGN & DEVELOPMENT REQUIREMENTS
+
+Company: Nayae Consulting & Energy Projects Ltd
+
+Project: Premium Corporate Website Development
+
+Industry: AI-Powered Security, Energy Infrastructure Protection, Security Technology & Consulting
+
+1. Project Overview
+
+We require the design and development of a sophisticated, premium, fully responsive corporate website for Nayae Consulting & Energy Projects Ltd.
+
+Our company focuses on artificial intelligence, intelligent security surveillance, energy and pipeline security, critical infrastructure protection, physical security, and security consulting.
+
+The primary emphasis must be Artificial Intelligence and how AI can improve security across different industries.
+
+The website should clearly demonstrate practical AI security applications, the problems these technologies address, and the business value they provide.
+
+We want a website comparable in visual quality and professionalism to leading international security technology and energy infrastructure companies.
+
+Reference Website:
+https://securedefence.ca/industries/energy
+
+Demo request link - https://www.thatchertech.com 
+
+Contact Us - https://www.thatchertech.com/contact
+
+(Focus mainly on the contact us and demo request link for the second website, first website reference is main reference )
+
+Use the reference website for inspiration regarding its corporate presentation, industry-specific pages, professional imagery, navigation, and services. Do not copy its design, text, or branding.
+
+2. Design & Visual Requirements
+
+The website must have a modern, sophisticated, elegant, and premium corporate appearance.
+
+Preferred Colours:
+
+Deep navy blue
+
+Dark teal
+
+White
+
+Charcoal black
+
+Subtle gold or electric blue accents
+
+The colours should complement our existing company logo and letterhead.
+
+Design Features:
+
+Full-width, high-quality hero images.
+
+Premium corporate typography.
+
+Beautifully designed service cards.
+
+Professional icons representing security, AI, energy, and surveillance.
+
+Smooth scrolling and subtle animations.
+
+Modern layouts with adequate white space.
+
+High-quality pipeline, energy facility, and security technology imagery.
+
+Professionally designed industry-specific pages.
+
+Consistent branding across the website.
+
+Fully responsive design for desktops, tablets, and mobile devices.
+
+The website should not resemble a basic security guard company website. It should communicate innovation, technical capability, intelligence, and trust.
+
+3. Website Structure & Pages
+
+A. HOME
+
+Main Headline:
+"Intelligent Security. Powered by AI. Built for Critical Infrastructure."
+
+The homepage should immediately communicate our expertise and proposed solutions in AI-powered security.
+
+Include:
+
+Impressive full-width hero image.
+
+Company introduction.
+
+AI-powered security solutions.
+
+Pipeline security and critical infrastructure protection.
+
+Core services.
+
+Industries served.
+
+Benefits of AI-enabled security.
+
+Why Choose Nayae.
+
+Request a Consultation section.
+
+B. ABOUT US
+
+Include:
+
+Company overview.
+
+Mission and vision.
+
+Our expertise.
+
+Our approach to technology and innovation.
+
+Our commitment to intelligent security and infrastructure protection.
+
+Our values.
+
+The content must communicate professionalism and credibility without inventing company achievements.
+
+C. AI-POWERED SECURITY SOLUTIONS
+
+This must be one of the most prominent pages on the website.
+
+Explain how AI can improve security operations.
+
+Include:
+
+1. AI-Powered Video Surveillance
+Intelligent CCTV systems capable of analyzing monitored activities, flagging suspicious movement, and supporting security alerts.
+
+2. AI Threat Detection
+AI-assisted monitoring and identification of defined security anomalies, unauthorized access, and unusual activity.
+
+3. Predictive Security Analytics
+Use of historical incident data to identify risk patterns, recurring threats, and opportunities for proactive security planning.
+
+4. Intelligent Perimeter Protection
+Smart cameras and sensors for monitoring restricted areas, industrial facilities, and security-sensitive infrastructure.
+
+5. AI Remote Monitoring
+Centralized monitoring of multiple facilities, automated alert generation, and improved operational visibility.
+
+6. AI-Assisted Drone Surveillance
+Potential use of authorized drones and thermal imaging for remote infrastructure monitoring.
+
+7. Smart Access Control
+AI-supported access monitoring, event analytics, and identification of unusual access activity.
+
+Each solution should have a professional image or icon, a description, the security challenge addressed, and the benefits to clients.
+
+D. PIPELINE SECURITY & CRITICAL INFRASTRUCTURE PROTECTION
+
+This is a flagship service and requires its own dedicated page.
+
+Title:
+"AI-Powered Pipeline Security & Critical Infrastructure Protection"
+
+Headline:
+"Protecting Energy Infrastructure Through Intelligent Security."
+
+Include:
+
+AI-assisted pipeline corridor surveillance.
+
+Unauthorized intrusion detection.
+
+Intelligent CCTV and thermal monitoring.
+
+Monitoring of pumping and compressor stations.
+
+Remote facility security.
+
+Drone-assisted pipeline monitoring where authorized.
+
+AI-based security risk analytics.
+
+Security alerts and incident escalation.
+
+Integrated security operations.
+
+Human-led security response.
+
+Important Visual Feature:
+
+Create a sophisticated diagram illustrating:
+
+Cameras & Sensors → AI Analysis → Threat Detection → Security Alert → Human Verification → Security Response.
+
+Explain how AI and security professionals can work together to improve pipeline protection.
+
+E. INDUSTRIES WE SERVE
+
+Include dedicated industry pages or professionally designed sections for:
+
+Oil & Gas
+
+Energy & Utilities
+
+Pipelines & Critical Infrastructure
+
+Construction Sites
+
+Industrial & Manufacturing Facilities
+
+Commercial & Corporate Properties
+
+Warehousing & Logistics
+
+Data Centres & Technology Infrastructure
+
+Each industry should include:
+
+Professional industry imagery.
+
+Common security challenges.
+
+Relevant AI security applications.
+
+Available or proposed security solutions.
+
+Benefits to clients.
+
+A consultation call to action.
+
+Exclude the following industries entirely:
+
+Agriculture
+
+Truck Yards
+
+Shopping Malls
+
+Self-Storage
+
+F. OUR SERVICES
+
+Organize the services into four major categories.
+
+AI Security Technology
+
+AI Video Analytics
+
+Intelligent CCTV Surveillance
+
+AI Threat Detection
+
+Remote Monitoring
+
+Smart Access Control
+
+Pipeline & Infrastructure Security
+
+Pipeline Surveillance
+
+Energy Asset Protection
+
+Intelligent Perimeter Security
+
+Critical Infrastructure Risk Assessments
+
+Physical Security
+
+Security Personnel
+
+Mobile Patrols
+
+Access Control
+
+Facility Security
+
+Incident Response Coordination
+
+Security Consulting
+
+Security Risk Assessments
+
+Security Technology Advisory
+
+Infrastructure Security Planning
+
+Security Systems Integration Consulting
+
+G. CONTACT US
+
+Include:
+
+Contact form.
+
+Business email.
+
+Phone number.
+
+Company location.
+
+Industry selection.
+
+Service inquiry options.
+
+Request a Consultation button.
+
+The contact form must deliver inquiries to the designated company email.
+
+4. Functional & Technical Requirements
+
+The developer must ensure the website includes:
+
+Responsiveness
+Optimized layouts for mobile, tablet, laptop, and desktop.
+
+Speed & Performance
+Fast-loading pages, compressed images, optimized code, and minimal unnecessary animations.
+
+SEO
+Search-engine-friendly URLs, page titles, descriptions, headings, image alt text, and sitemap.
+
+Security
+HTTPS/SSL, secure contact forms, spam protection, software updates where applicable, and appropriate access controls.
+
+Content Management
+An easy-to-use content management system so we can update text, services, industry pages, images, and contact information without hiring a developer each time.
+
+Professional Navigation
+Clearly organized menu, industry dropdowns, service dropdowns, and working internal links.
+
+Lead Generation
+Consultation forms and professional calls to action throughout the website.
+
+Analytics
+Integration with a website analytics tool to understand website visits, inquiries, and engagement.
+
+Legal & Privacy
+Privacy policy, appropriate consent handling, and a cookie notice if required by the tracking technologies used.
+
+5. Content & Branding Requirements
+
+The developer should use professional, executive-level language suitable for energy companies, infrastructure operators, and corporate decision-makers.
+
+AI security should be the central focus throughout the website.
+
+Use our existing company branding and logo, with colours coordinated across all pages.
+
+Do not invent:
+
+Certifications or licenses.
+
+Existing clients or partnerships.
+
+Years of experience.
+
+Proven AI deployments.
+
+Customer testimonials.
+
+Performance statistics.
+
+Do not describe proposed technologies as already deployed or operational unless confirmed.
+
+Images should be legally licensed or properly authorized for commercial use.
+
+6. Deliverables Expected
+
+The developer should provide:
+
+Complete, fully functioning website.
+
+Responsive desktop and mobile designs.
+
+All agreed website pages.
+
+Working navigation and contact forms.
+
+Search engine optimization setup.
+
+Website security and SSL configuration.
+
+Content management system access.
+
+Basic training on updating the website.
+
+Website testing before launch.
+
+Domain and hosting configuration.
+
+Administrative access and ownership handover.
+
+Post-launch support arrangements.
+
+7. Project Completion & Approval
+
+Before development begins, the developer should provide:
+
+Proposed website design/mockup.
+
+Confirmed sitemap and number of pages.
+
+Development platform recommendation.
+
+Project cost and payment milestones.
+
+Estimated completion timeline.
+
+Hosting and ongoing maintenance costs.
+
+Scope of post-launch support.
+
+The website should only be launched after our review and approval.
+
+FINAL OBJECTIVE
+
+Develop a world-class, elegant, technologically advanced corporate website that establishes Nayae Consulting & Energy Projects Ltd as an AI-focused security, technology, and critical infrastructure consulting company.
+
+The website must clearly communicate how artificial intelligence can improve security surveillance, pipeline protection, risk detection, and operational intelligence across industries.
+
+The final result must be visually impressive, credible, secure, easy to manage, and suitable for presenting our company to major energy corporations, security organizations, and potential strategic partners.
